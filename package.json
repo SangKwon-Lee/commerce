@@ -10,6 +10,8 @@
     "prettier-fix": "prettier --write ."
   },
   "dependencies": {
+    "@notionhq/client": "^2.2.13",
+    "axios": "^1.6.2",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18"
